@@ -15,7 +15,7 @@
 
 ---
 
-## 📸 Installation
+## ⚙️ Installation
 
 > Navigate to Burp Extensions and add the Python based file. 
 
